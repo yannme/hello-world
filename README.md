@@ -1,3 +1,4 @@
 # hello-world
-first shot
-and first commit to github
+second shot
+
+Now we push the code online
